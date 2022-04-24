@@ -1,1 +1,6 @@
 # Tezos
+Tezos is a decentralized open-source blockchain that can execute peer-to-peer transactions and serve as a platform for deploying smart contracts. The native cryptocurrency for the Tezos blockchain is the tez which has the symbol XTZ.
+
+Tezos was created by husband-and-wife team Arthur and Kathleen Breitman and first proposed in 2014. The non-profit Tezos Foundation, based in Zug, Switzerland, was created in 2017 to support the project and raised $232 million in Bitcoin and Ethereum in one of the biggest initial coin offerings (ICOs) at the time. Subsequently, the Breitmans and the head of the foundation, Johann Gevers, publicly feuded over control of the project. The disagreements led to delays in the deployment of Tezos, which caused investors to bring lawsuits alleging unauthorized sales of securities. In 2020, the Tezos founders settled the lawsuits with the Tezos Foundation paying $25 million.
+
+The Tezos network achieves consensus using proof-of-stake. Tezos uses an on-chain governance model that enables the protocol to be amended when upgrade proposals receive a favorable vote from the community. This allows Tezos to avoid hard forks. Its testnet was launched in June 2018, and its mainnet went live in September 2018. As of August 2021, there are about 400 nodes validating blocks (referred to as bakers) on the Tezos network.
